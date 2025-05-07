@@ -48,22 +48,3 @@ body {
   min-height: 100vh;
   background-color: hsl(212, 45%, 89%);
 }
-
-
-### Continued development
-
-I plan to continue focusing on:
-
-* Improving responsive design techniques
-* Mastering layout systems like Flexbox and CSS Grid
-* Building more components based on real-world designs
-
-### Useful resources
-
-* [MDN Flexbox Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) – Great explanation of Flexbox concepts
-* [Frontend Mentor Community](https://www.frontendmentor.io/community) – Helpful for getting feedback and learning from others
-
-### Author
-
-* GitHub - [@hepinsuthar](https://github.com/hepinsuthar)
-* Frontend Mentor - [@hepinsuthar](https://www.frontendmentor.io/profile/hepinsuthar)
